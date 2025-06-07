@@ -1,5 +1,5 @@
 ## HI I'm Krushnali 🎀
-🎓 I'm a 3rd-year Computer Engineering student passionate about building impactful and user-friendly tech solutions.
+🎓 I'm a 4th-year Computer Engineering student passionate about building impactful and user-friendly tech solutions.
 
 💻 I love working on full-stack web projects, data analysis, and AI-powered tools.  
 🔍 Currently exploring: Flask, Machine Learning, and Cybersecurity.
