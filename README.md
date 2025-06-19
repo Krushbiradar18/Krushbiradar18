@@ -4,11 +4,6 @@
 💻 I love working on full-stack web projects, data analysis, and AI-powered tools.  
 🔍 Currently exploring: Flask, Machine Learning, and Cybersecurity.
 
-📂 Projects I'm proud of:
-- 🔍 **FreQ** – Question paper analyzer with frequency detection
-- 🧠 **Quizker** – GATE-style quiz web app with leaderboard
-- 📅 **Date Bucket App** – A creative to-do app for planning special moments
-
 🌐 Check out my portfolio:[https://krush-portfolio.vercel.app/]<br/>
 📌 Always learning, always building!
 
