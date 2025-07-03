@@ -3,7 +3,7 @@
 
 
 
-🌐 Check out my portfolio:[https://krush-portfolio.vercel.app/]<br/>
+🌐 Check out my portfolio:[[(https://portfolio-krushnali-biradar.vercel.app/)]<br/>
 📌 Always learning, always building!
 
 
